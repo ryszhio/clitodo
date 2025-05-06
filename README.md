@@ -41,7 +41,7 @@ Example: ./clitodo complete 1 # Will set todo task-id 1 as completed
 ```
 
 ## Future Plans
-- Put all the functionality of add, complete, list, remove into a separate internal package.
+- Make this app an interactive CLI
 
 ## Credits
 - cobra package: https://github.com/spf13/cobra
