@@ -1,5 +1,5 @@
 # CLI based TODO list
-This cli tool is to track your TODO list, which provides following features for now:
+I created this project while learning golang. This cli tool is to track your TODO list, which provides following features for now:
 - add
 - remove
 - complete
